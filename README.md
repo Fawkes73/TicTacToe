@@ -28,7 +28,8 @@ Stack:
 
 
 
-3. Run  ```bash
+3. Run  
+```bash
   npm run start
 ```
 
