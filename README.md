@@ -1,3 +1,4 @@
+
 # Tic Tac Toe
 
 ## Overview
@@ -9,12 +10,20 @@ Stack:
 - React
 - Styles with Sass
 
+
+
 ## Develop locally
 
-1. Clone this repo by running `git clone https://github.com/shelooks16/tictactoe.git`
+
+```bash
+1. Clone this repo by running `git clone https://github.com/Fawkes73/TicTacToe.git`
+```
+
+```bash
 2. Install dependencies by running `npm install`
+```
+
+
+```bash
 3. Run `npm run start`
-
-## Deployment
-
-Deployed to surge.sh -> https://surge.sh/help/getting-started-with-surge
+```
