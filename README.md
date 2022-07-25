@@ -15,15 +15,22 @@ Stack:
 ## Develop locally
 
 
+
+1. Clone this repo by running 
 ```bash
-1. Clone this repo by running `git clone https://github.com/Fawkes73/TicTacToe.git`
+git clone https://github.com/Fawkes73/TicTacToe.git
 ```
 
+2. Install dependencies by running 
 ```bash
-2. Install dependencies by running `npm install`
+`npm install`
 ```
 
 
-```bash
-3. Run `npm run start`
+
+3. Run  ```bash
+`npm run start`
 ```
+
+## Deployment
+Deployed to surge.sh -> https://surge.sh/help/getting-started-with-surge
