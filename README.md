@@ -18,18 +18,18 @@ Stack:
 
 1. Clone this repo by running 
 ```bash
-git clone https://github.com/Fawkes73/TicTacToe.git
+  git clone https://github.com/Fawkes73/TicTacToe.git
 ```
 
 2. Install dependencies by running 
 ```bash
-`npm install`
+  npm install
 ```
 
 
 
 3. Run  ```bash
-`npm run start`
+  npm run start
 ```
 
 ## Deployment
